@@ -26,5 +26,13 @@ namespace BTL.Controllers
         {
             return View();
         }
+        public ActionResult Sale()
+        {
+            return View();
+        }
+        public ActionResult Product()
+        {
+            return View();
+        }
     }
 }

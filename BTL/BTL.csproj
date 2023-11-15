@@ -4261,14 +4261,18 @@
     <Content Include="Content\Site.css" />
     <Content Include="images\01e12c182a7ac719b25821c7bf71964d.jpg" />
     <Content Include="images\08d6fab2cb5d5dd44418706cb40754e6.jpg" />
+    <Content Include="images\11a58a64e09a5da8223c230415a7c884.jpg" />
     <Content Include="images\336290ace23e725e97fdd0ca1759b799.jpg" />
     <Content Include="images\3e954d8077a8893b32dc9c29ea1ca7fa.jpg" />
+    <Content Include="images\433cc2aca06a40eb3deca4ae3612dccb.jpg" />
     <Content Include="images\4eeadc06afb1d79a8041ad73e737a568.jpg" />
     <Content Include="images\62814f0335a3abeeffb126422a5f4a80.jpg" />
     <Content Include="images\6f8462667caf84b5904ae7c3cdbb5ed4.jpg" />
     <Content Include="images\71fd257ed566e95e2fa47ab0b1d9e763.jpg" />
     <Content Include="images\96990ec5a3cafbe4441949dc6d5a11d4.jpg" />
     <Content Include="images\993e2eadafa16dd56079b45a4e858f73.jpg" />
+    <Content Include="images\aothun1.jpg" />
+    <Content Include="images\aothun2.jpg" />
     <Content Include="images\appstore.png" />
     <Content Include="images\d9b35efcb2e9b92794dcd64cafb07f66.jpg" />
     <Content Include="images\e8d1e3e0f3d4364156a9152fbb8480c9.jpg" />
@@ -4459,6 +4463,8 @@
     <Content Include="Views\Home\VeChungToi.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Register.cshtml" />
+    <Content Include="Views\Home\Sale.cshtml" />
+    <Content Include="Views\Home\Product.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -4465,6 +4465,7 @@
     <Content Include="Views\Home\Register.cshtml" />
     <Content Include="Views\Home\Sale.cshtml" />
     <Content Include="Views\Home\Product.cshtml" />
+    <Content Include="Views\Home\Cart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

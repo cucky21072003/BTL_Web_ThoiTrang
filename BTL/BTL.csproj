@@ -4443,6 +4443,7 @@
     <Content Include="styles\categories_styles.css" />
     <Content Include="styles\contact_responsive.css" />
     <Content Include="styles\contact_styles.css" />
+    <Content Include="styles\css\css1\lifstyle.css" />
     <Content Include="styles\main_styles.css" />
     <Content Include="styles\responsive.css" />
     <Content Include="styles\single_responsive.css" />
@@ -4466,6 +4467,13 @@
     <Content Include="Views\Home\Sale.cshtml" />
     <Content Include="Views\Home\Product.cshtml" />
     <Content Include="Views\Home\Cart.cshtml" />
+    <Content Include="Views\Home\Nu_aokieu.cshtml" />
+    <Content Include="Views\Home\Nu_aocrop.cshtml" />
+    <Content Include="Views\Home\Nam_aothun.cshtml" />
+    <Content Include="Views\Home\Nam_aosomi.cshtml" />
+    <Content Include="Views\Home\BeTrai_quanao.cshtml" />
+    <Content Include="Views\Home\BeGai_quanao.cshtml" />
+    <Content Include="Views\Home\lifestyle.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

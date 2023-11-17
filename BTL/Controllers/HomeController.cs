@@ -30,6 +30,10 @@ namespace BTL.Controllers
         {
             return View();
         }
+        public ActionResult lifestyle()
+        {
+            return View();
+        }
         public ActionResult Product()
         {
             return View();
@@ -38,5 +42,30 @@ namespace BTL.Controllers
         {
             return View();
         }
+        public ActionResult Nu_aokieu()
+        {
+            return View();
+        }
+        public ActionResult Nu_aocrop()
+        {
+            return View();
+        }
+        public ActionResult Nam_aothun()
+        {
+            return View();
+        }
+        public ActionResult Nam_aosomi()
+        {
+            return View();
+        }
+        public ActionResult BeTrai_quanao()
+        {
+            return View();
+        }
+        public ActionResult BeGai_quanao()
+        {
+            return View();
+        }
+        
     }
 }
